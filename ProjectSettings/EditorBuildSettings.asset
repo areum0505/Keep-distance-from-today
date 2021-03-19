@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Message.unity
+    guid: 7b3caa4f40922004499caccccb7f0121
+  - enabled: 1
+    path: Assets/Scenes/FindVirus.unity
+    guid: 2e8b930b5be54fa4bb8f3b0d65571b5e
+  - enabled: 1
+    path: Assets/Scenes/Iisolation.unity
+    guid: a7973a0dddb74a64da267c3b52c6a2ad
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: db8113174eb0bea429f86e67f00762c2
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: b9c3774054fc4ff42ad6201e4dcb4ff2
+  - enabled: 1
+    path: Assets/Scenes/SlidingPuzzle.unity
+    guid: c4636774e86e11348b432a380c2a2587
+  - enabled: 1
+    path: Assets/Scenes/Wallpaper.unity
+    guid: aefdf36ef71d89846b03749658977f3b
+  - enabled: 1
+    path: Assets/Scenes/prewh.unity
+    guid: 407d00cfb5e61b843b29fb45183ec29e
+  - enabled: 1
+    path: Assets/Scenes/WashingHand.unity
+    guid: 0d4b56b3d2bd29b49af375ac27d5a5a0
+  - enabled: 1
+    path: Assets/Scenes/FebricityCheck.unity
+    guid: 81c7b853fb5e1114fb2edc30c6b3eaa7
+  - enabled: 1
+    path: Assets/Scenes/prevIisolation.unity
+    guid: 03d72490698eac241b582c1770ef911a
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: bd311d31c585815409a804bd60c03b02
+  m_configObjects: {}
